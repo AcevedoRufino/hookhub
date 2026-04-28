@@ -41,7 +41,7 @@ export default function Home() {
           </p>
           <button
             className="inline-flex items-center px-6 py-3 rounded-lg text-white font-medium transition-opacity duration-200 hover:opacity-90"
-            style={{ backgroundColor: '#FA3722' }}
+            style={{ backgroundColor: '#C56330' }}
           >
             Browse all Hooks
           </button>
